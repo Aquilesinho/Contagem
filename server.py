@@ -6,7 +6,6 @@ import os
 import threading
 import requests
 
-
 app = Flask(__name__)
 CORS(app)
 
